@@ -1,0 +1,90 @@
+* { margin: 0;
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: arial, sans-serif; }
+
+body {
+background: #0f0f0f; 
+color: white;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5%;
+    background: #151515;
+}
+
+header h1 {
+    color: #3d3aed;}
+    header nav a {
+        color: white;
+        margin-left: 20px;
+        text-decoration: none;}
+        header nav a:hover { color: #7c3aed;}
+
+        .hello {
+            text-align: center;
+            padding: 100px 20px; }
+            .hello h2 {
+                font-size: 2.5rem;
+                margin-bottom: 15px;
+            }
+
+            .hello p {
+                color: #aaa;
+                margin-bottom: 25px;
+            }
+            .mpj {
+                background: #7c3aed;
+                color: white;
+                padding: 12px 25px;
+                border-radius: 8px; 
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+            .Projetos {
+                padding: 60px 5%;
+                background: #151515;
+                text-align: center;
+            }
+        .Projetos h3 {
+            font-size: 2rem;
+            margin-bottom: 30px;
+        }
+        
+        .Cards {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .Card {
+            background: #1f1f1f;
+            padding: 25px;
+            border-radius: 12px;
+            width: 300px;
+            text-align: left;
+            border: 1px solid #2a2a2a;
+        }
+        .Card:houver { border-color: #7c3aed;}
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+        }
+        footer a {
+            color: #7c3aed;
+            text-decoration: none;
+        }
+
+
+
+
+
+
+
+
+
