@@ -1,11 +1,15 @@
 #intro {
+    
     text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
     background-image: url(/assets/Background_Intro.png);
     background-size: cover;
     height: 750px;
+    padding: 120px 0;
 
     /* centraliza tudo no meio da tela */
 
@@ -49,7 +53,7 @@ h1 {
     line-height: 120%;
     font-weight: 700px;
     font-family: var(--font-family);
-    color: var(--gray-600);
+    color: var(--gray-100);
 }
 
 .text {
@@ -61,7 +65,7 @@ h1 {
 
 .text p:nth-of-type(2) {
     font: var(--text-sm);
-    color: var(--gray-400);
+    color: var(--gray-300);
 }
 
 p span {
@@ -86,31 +90,3 @@ p span {
 
 }
 
-.tags {
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    flex-wrap: wrap;
-    list-style: none;
-    margin-top: 32px auto;
-    max-width: 700px;
-    padding: 0;
-}
-
-.tags li {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-
-    background-color: var(--gray-300);
-    color: var(--gray-500);
-    font: var(--text-md);
-
-    padding: 6px 16px;
-    border-radius: 999px;
-}
-
-.tags li img {
-    width: 20px;
-    height: 20px;
-}

@@ -1,0 +1,24 @@
+#services {
+    background-color: var(--gray-600);
+    padding: 120px 120px 120px 88px; 
+    text-align: center;
+    
+
+}
+
+p {
+    font-size: var( 20px);
+}
+
+h2 {
+    font-size: 24px;
+    color: var(--gray-100);
+
+}
+
+.website {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 56px auto 0;
+    max-width: 888px;
+}
