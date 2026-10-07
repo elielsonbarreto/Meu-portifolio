@@ -11,6 +11,7 @@
     grid-template-columns: repeat(3,1fr);
     gap: 24px;
     max-width: 1040px;
+    max-height: 584px;
     margin: 56px auto 0;
 
 }

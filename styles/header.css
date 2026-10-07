@@ -4,12 +4,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #16181d;
     background-position: center;
     background-repeat: no-repeat;
     background-image: url(/assets/Background_Intro.png);
     background-size: cover;
     height: 750px;
-    padding: 120px 0;
+    padding: 120px 0 60px;
 
     /* centraliza tudo no meio da tela */
 

@@ -1,0 +1,56 @@
+#blog {
+    background-color: var(--gray-500);
+    padding: 128px 120px 200px;
+    text-align: center;
+   
+}
+
+.redes p {
+    color: blueviolet;
+    font-family: var(--subtitle);
+    font-size: 20px;
+}
+
+.redes h3 {
+    font-family: var(--title-md);
+    font: bold 24px/120% "asap", sans-serif;
+    color: var(--gray-100);
+    margin: 8px;
+}
+
+p {
+    font-family: var(--text-md);
+    font-size: 16px;
+    color: var(--gray-200);
+}
+
+#contact {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+}
+
+#contact .social {
+    background-color: #292c34;
+    width: 400px;
+    height: 68px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 12px;
+    padding: 20px;
+    max-width: 1366px;
+    max-height: 480px;
+}
+
+    #contact .social p {
+        color: #c0c4ce;
+        font: 16px/140% "maven pro", sans-serif;
+    }
+
+    
+
+
