@@ -9,8 +9,7 @@
 - Design Responsivo
 
 ### 📫 Contato
-- LinkedIn: [www.linkedin.com/in/elielson-barreto-dos-santos]
+- LinkedIn: [linkedin.com/in/elielson-barreto-dos-santos](https://www.linkedin.com/in/elielson-barreto-dos-santos/)
 - Email: elielson.bsantos@hotmail.com
 
----
 Feito com 💙 por Elielson
