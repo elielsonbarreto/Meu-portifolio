@@ -2,7 +2,7 @@
 
 👨‍💻 Meu portfólio pessoal como Desenvolvedor Full-stack em formação.
 
-🔗 **Live:** https://vercel.com/elileosn-dv
+🔗 **Live:** https://meu-portfolio-pi-seven.vercel.app/
 
 ### 🚀 Techs
 - HTML, CSS, JavaScript
